@@ -37,4 +37,5 @@
 |[تپسی](https://app.tap30.org/)|React|express|no||
 |[پونیشا](ponisha.ir)|vue|nginx|no||
 |[انار دونی](https://anardoni.com)|React|nginx|yes not perfect||
-
+|[وب اپ سپیدز](https://sepidz.com)|Angular|IIS|no||
+|[استارتاپ آکادمی](https://panel.startupacademy.ir)|Angular|nginx|no||
